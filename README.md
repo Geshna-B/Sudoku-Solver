@@ -44,14 +44,20 @@ It can:
      
    pip install opencv-python pytesseract tensorflow matplotlib numpy
     
+4.  **Dataset**
 
-4. **Install Jupyter Notebook**
+Due to GitHub's file size limit, the Sudoku dataset is hosted externally. You can download it from:
+
+- **[Kaggle – 1 Million Sudoku Games (with solutions)]**(https://www.kaggle.com/datasets/bryanpark/sudoku)  
+  Features one million Sudoku puzzles and solutions, formatted as 9×9 NumPy arrays. :contentReference[oaicite:3]{index=3}
+
+5. **Install Jupyter Notebook**
 
      
    pip install notebook
     
 
-5. **Install Tesseract OCR**
+6. **Install Tesseract OCR**
 
    * **Windows**: Download from [Tesseract at UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki).
    * **Linux**:
